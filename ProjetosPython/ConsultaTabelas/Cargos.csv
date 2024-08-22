@@ -1,0 +1,7 @@
+Cargo_ID,Descricao,Salario_Base,Nivel,Habilidades_Requeridas,Departamento_ID
+1,Analista de Sistemas,5800.00,Analista,Conhecimento em análise de sistemas,1
+2,Estagiário de TI,2500.00,Estagiário,Conhecimento básico em tecnologia da informação,2
+3,Analista Financeiro,5500.00,Analista,Conhecimento em análise financeira,3
+4,Gerente de TI,7500.00,Gerente,Experiência em gestão de equipe de TI,4
+5,Diretor de Tecnologia,11000.00,Diretor,Experiência em liderança estratégica em TI,5
+6,Desenvolvedor Full-Stack,6000.00,Analista,Conhecimento em desenvolvimento de sistemas,1

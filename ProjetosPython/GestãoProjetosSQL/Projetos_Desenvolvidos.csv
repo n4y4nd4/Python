@@ -1,0 +1,6 @@
+Projeto_ID,Nome_Projeto,Descricao,Data_Inicio,Data_Conclusao,Funcionario_Responsavel,Custo_Projeto,Status
+1,Sistema de Gestão,Desenvolvimento de um sistema de gestão,2023-01-15,2023-06-30,1,50000.00,Concluído
+2,Portal Web,Criação de um portal web,2023-02-01,2023-08-15,2,30000.00,Concluído
+3,Aplicativo Mobile,Desenvolvimento de um aplicativo mobile,2023-03-10,,3,25000.00,Em Execução
+4,Infraestrutura de Rede,Atualização da infraestrutura de rede,2023-04-20,2023-12-01,4,45000.00,Concluído
+5,Sistema de Pagamento,Desenvolvimento de sistema de pagamento,2023-05-25,,5,60000.00,Em Execução
